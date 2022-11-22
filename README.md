@@ -14,7 +14,7 @@ I'm a Software Developer 💻!
 
 <a href="https://www.linkedin.com/in/ata-b-akin/"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
  <a href="https://www.instagram.com/ataabaaris/">![Instagram](https://img.shields.io/badge/ataabaaris-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-   <a href="https://twitter.com/ata_akn1/">![Twitter]([https://img.shields.io/badge/twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fata_akn1)
+   <a href="https://twitter.com/ata_akn1/">![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fata_akn1)
  
  ## 🔭 I'm currently working on
 
