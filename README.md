@@ -1,4 +1,4 @@
-![Header]((https://avatars.githubusercontent.com/u/107643083?v=4))
+![Header](https://avatars.githubusercontent.com/u/107643083?s=400&u=0980972b9ce9e2406d8f22ba820b70b91fbec10f&v=4)
 
 <h3 align="center">
 Hi there, I'm Ata Baris Akin 👋
